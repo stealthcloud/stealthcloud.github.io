@@ -20,6 +20,58 @@ i like to have some content to run.</description>
     
     <item>
       <title>The Rogue Cloud___ TEST</title>
+      <link>https://roguecloud.github.io/post/1/</link>
+      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://roguecloud.github.io/post/1/</guid>
+      <description>&lt;p&gt;some content here&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;some 
+block code
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Rogue Cloud___ TEST</title>
+      <link>https://roguecloud.github.io/post/2/</link>
+      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://roguecloud.github.io/post/2/</guid>
+      <description>&lt;p&gt;some content here&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;some 
+block code
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Rogue Cloud___ TEST</title>
+      <link>https://roguecloud.github.io/post/3/</link>
+      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://roguecloud.github.io/post/3/</guid>
+      <description>&lt;p&gt;some content here&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;some 
+block code
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Rogue Cloud___ TEST</title>
+      <link>https://roguecloud.github.io/post/4/</link>
+      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://roguecloud.github.io/post/4/</guid>
+      <description>&lt;p&gt;some content here&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;some 
+block code
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Rogue Cloud___ TEST</title>
       <link>https://roguecloud.github.io/post/rogue/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
