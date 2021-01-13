@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stephen-reaves.github.io/</loc>
+    <lastmod>2021-01-12T12:33:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephen-reaves.github.io/post/</loc>
+    <lastmod>2021-01-12T12:33:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephen-reaves.github.io/post/test/</loc>
+    <lastmod>2021-01-12T12:33:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephen-reaves.github.io/post/rogue/</loc>
+    <lastmod>2021-01-12T12:33:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephen-reaves.github.io/post/youtube-test/</loc>
+    <lastmod>2021-01-12T12:33:09-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stephen-reaves.github.io/image-credit/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url>
@@ -10,10 +35,6 @@
   <url>
     <loc>https://stephen-reaves.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stephen-reaves.github.io/</loc>
   </url>
   
   <url>
