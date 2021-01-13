@@ -2,62 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Rogue Cloud</title>
-    <link>https://stephen-reaves.github.io/</link>
+    <link>https://roguecloud.github.io/</link>
     <description>Recent content on The Rogue Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020, Stephen Reaves and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Jan 2021 12:33:09 -0600</lastBuildDate><atom:link href="https://stephen-reaves.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 12:33:09 -0600</lastBuildDate><atom:link href="https://roguecloud.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>https://stephen-reaves.github.io/post/test/</link>
+      <title>Virtual Lab Build</title>
+      <link>https://roguecloud.github.io/post/esxi_lab/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://stephen-reaves.github.io/post/test/</guid>
-      <description>#more random stuff
-i like to have some content to run.</description>
-    </item>
-    
-    <item>
-      <title>The Rogue Cloud</title>
-      <link>https://stephen-reaves.github.io/post/rogue/</link>
-      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
-      
-      <guid>https://stephen-reaves.github.io/post/rogue/</guid>
-      <description>&lt;p&gt;some content here&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;some 
-block code
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>youtube test</title>
-      <link>https://stephen-reaves.github.io/post/youtube-test/</link>
-      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
-      
-      <guid>https://stephen-reaves.github.io/post/youtube-test/</guid>
-      <description> YouTube Privacy Enhanced Shortcode    </description>
-    </item>
-    
-    <item>
-      <title>Image Credit</title>
-      <link>https://stephen-reaves.github.io/image-credit/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://stephen-reaves.github.io/image-credit/</guid>
-      <description>Thank you to the authors of these images used in this theme demo</description>
+      <guid>https://roguecloud.github.io/post/esxi_lab/</guid>
+      <description>Lab parts list note: I decided to build 2 nodes for personal reasons, a single node (half all parts) will be perfectly fine to use.
+ 2x ATX case - https://www.newegg.com/black-corsair-icue-220t-rgb-airflow-atx-mid-tower/p/N82E16811139142?Item=N82E16811139142 8x 64GB LR Ram - https://www.newegg.com/p/1X5-003Z-018J5?Item=9SIA7S6B0B3748 2x 2Tb M.2 - https://www.newegg.com/crucial-2tb-p2/p/N82E16820156274?Item=N82E16820156274 2x Motherboard/CPU combo - https://www.newegg.com/supermicro-mbd-h11ssl-i302p-ma015-o-single-amd-epyc-7000-series-processor/p/N82E16813183698?Item=N82E16813183698 2x PSU - https://www.newegg.com/corsair-rmx-series-rm1000x-1000w/p/N82E16817139140?Item=N82E16817139140 2x CPU Cooler - https://www.newegg.com/noctua-nh-u12s-tr4-sp3-premium-grade-120mm-cpu-cooler-for-amd-tr4-sp3/p/13C-0005-00141?Item=9SIAADY63N0333 ######not required: 2x 2 NIC AOC - https://www.newegg.com/p/14U-0032-000D1?Item=9SIACTND7R2549 (needed if using VDS in VCenter) 4x 2Tb NAS Drives - https://www.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://stephen-reaves.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <link>https://roguecloud.github.io/about/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://stephen-reaves.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <guid>https://roguecloud.github.io/about/</guid>
+      <description>United States Air Force Veteran
+Sr. Solutions Architect at VMware. Working Modern Application Business Unit (MAPBU). focuses on Automation, Integration and Operation of the VMware Software Defined Datacenter (SDDC), and the TANZU product portfolio. Experienced Network and Cloud Engineer with a demonstrated history of working in the Defense &amp;amp; Space industry. Skilled in Cisco Networking, Satellite, Cisco IOS and Nexus, AWS, VSphere, Kubernetes, and IP Multicast. Air Force Pathfinder for Pivotal Cloud Foundry initiative later to become the Air Force KesselRun Project.</description>
+    </item>
+    
+    <item>
+      <title>Image Credit</title>
+      <link>https://roguecloud.github.io/image-credit/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://roguecloud.github.io/image-credit/</guid>
+      <description>Thank you to the authors of these images used</description>
     </item>
     
   </channel>
