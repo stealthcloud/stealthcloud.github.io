@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Rogue Cloud</title>
-    <link>https://roguecloud.github.io/post/</link>
-    <description>Recent content in Posts on The Rogue Cloud</description>
+    <title>Posts on The Stealth Cloud</title>
+    <link>https://stealthcloud.github.io/post/</link>
+    <description>Recent content in Posts on The Stealth Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020, Stephen Reaves and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Jan 2021 13:00:20 -0600</lastBuildDate><atom:link href="https://roguecloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 13:00:20 -0600</lastBuildDate><atom:link href="https://stealthcloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual Lab Build</title>
-      <link>https://roguecloud.github.io/post/esxi_lab/</link>
+      <link>https://stealthcloud.github.io/post/esxi_lab/</link>
       <pubDate>Thu, 14 Jan 2021 13:00:20 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/esxi_lab/</guid>
+      <guid>https://stealthcloud.github.io/post/esxi_lab/</guid>
       <description>&lt;p&gt;Lab build out for other considering running a home lab setup.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>aye</title>
-      <link>https://roguecloud.github.io/post/2/</link>
+      <link>https://stealthcloud.github.io/post/2/</link>
       <pubDate>Wed, 13 Jan 2021 16:00:20 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/2/</guid>
+      <guid>https://stealthcloud.github.io/post/2/</guid>
       <description>&lt;p&gt;some content here&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;some 
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;some 
 block code
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>blah</title>
-      <link>https://roguecloud.github.io/post/3/</link>
+      <link>https://stealthcloud.github.io/post/3/</link>
       <pubDate>Wed, 13 Jan 2021 16:00:20 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/3/</guid>
+      <guid>https://stealthcloud.github.io/post/3/</guid>
       <description>&lt;p&gt;some content here&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;some 
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;some 
 block code
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stuff</title>
-      <link>https://roguecloud.github.io/post/stuff/</link>
+      <link>https://stealthcloud.github.io/post/stuff/</link>
       <pubDate>Wed, 13 Jan 2021 16:00:20 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/stuff/</guid>
-      <description>something something something something something something something something something something something something something something something something something</description>
+      <guid>https://stealthcloud.github.io/post/stuff/</guid>
+      <description>something something something something something something something something</description>
     </item>
     
     <item>
       <title>rich_content</title>
-      <link>https://roguecloud.github.io/post/1/</link>
+      <link>https://stealthcloud.github.io/post/1/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/1/</guid>
+      <guid>https://stealthcloud.github.io/post/1/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
 
@@ -71,23 +71,23 @@ block code
     
     <item>
       <title>test</title>
-      <link>https://roguecloud.github.io/post/test/</link>
+      <link>https://stealthcloud.github.io/post/test/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/test/</guid>
+      <guid>https://stealthcloud.github.io/post/test/</guid>
       <description>#more random stuff
 i like to have some content to run.</description>
     </item>
     
     <item>
-      <title>The Rogue Cloud___ TEST</title>
-      <link>https://roguecloud.github.io/post/4/</link>
+      <title>The Stealth Cloud___ TEST</title>
+      <link>https://stealthcloud.github.io/post/4/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/4/</guid>
+      <guid>https://stealthcloud.github.io/post/4/</guid>
       <description>&lt;p&gt;some content here&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;some 
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;some 
 block code
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.
@@ -95,24 +95,24 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
     </item>
     
     <item>
-      <title>The Rogue Cloud___ TEST</title>
-      <link>https://roguecloud.github.io/post/rogue/</link>
+      <title>The stealth Cloud___ TEST</title>
+      <link>https://stealthcloud.github.io/post/rogue/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/rogue/</guid>
+      <guid>https://stealthcloud.github.io/post/rogue/</guid>
       <description>&lt;p&gt;some content here&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;some code here&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;some 
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;some 
 block code
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>youtube test</title>
-      <link>https://roguecloud.github.io/post/youtube-test/</link>
+      <link>https://stealthcloud.github.io/post/youtube-test/</link>
       <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
       
-      <guid>https://roguecloud.github.io/post/youtube-test/</guid>
+      <guid>https://stealthcloud.github.io/post/youtube-test/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;youtube-shortcode&#34;&gt;YouTube Shortcode&lt;/h2&gt;
 
