@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020, Stephen Reaves and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Jan 2021 13:00:20 -0600</lastBuildDate><atom:link href="https://stealthcloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 12:33:09 -0600</lastBuildDate><atom:link href="https://stealthcloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>youtube test #2</title>
+      <link>https://stealthcloud.github.io/post/youtube-test-copy/</link>
+      <pubDate>Wed, 20 Oct 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://stealthcloud.github.io/post/youtube-test-copy/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;youtube-shortcode&#34;&gt;YouTube Shortcode&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/KlsprTBsGTE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
     <item>
       <title>Virtual Lab Build</title>
       <link>https://stealthcloud.github.io/post/esxi_lab/</link>
@@ -118,22 +134,6 @@ block code
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/OLs6Oyc49fQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>youtube test #2</title>
-      <link>https://stealthcloud.github.io/post/youtube-test-copy/</link>
-      <pubDate>Tue, 12 Jan 2021 12:33:09 -0600</pubDate>
-      
-      <guid>https://stealthcloud.github.io/post/youtube-test-copy/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;youtube-shortcode&#34;&gt;YouTube Shortcode&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/KlsprTBsGTE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;!-- raw HTML omitted --&gt;</description>
